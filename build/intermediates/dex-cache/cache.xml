@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_fcd30038b8ed8cee71fb55e3135f2befb24fc581/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c594bf7404369ed695405abedfcfa6179edecd34">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1321380557f5f1c5073a843b69c5d09ed5d9e06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_596ac2dc83c30eb17eb9683d17051a243ca2ecd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e7577dc210fa48ddd68349f412c7a6d863f23b07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_5d70f97e0f6c6ec3ce44aaa60b0f886b731c63c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_cb3d86b090c7e1792643c7d85a245744752e86e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_dfd132094ae61ae6a5ecd31288989df5db2cf812/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_1154c91516a0a296f5b37a95dffcd93353a920a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_8862273e78b4af284c40586271d03c1dde86415b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_ebd38b88203e7eb13cc6839c055bd3fb067bea46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_02c5aef0e2a9bb4b03256b8e2e019044a3a638ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e8dd8844bed7dc17624d97d6f22edbfbc72fd586">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c746745aef5748aca4ebd8b1a76d38c77b08900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c80cf20107581169a766810a167ca5494d9a2d74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_5b408ebb3f900ac1c2c18d16fbed222220daf3b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_1c3b2aa2917f0a23c32c5333a1dae74942f0de48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/libs/modlib-01.00.000.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e1905855d51224d98395146ed3b47539bfd2ea81">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/2/modlib-01.00.000_fcc9bae4023a3e797443d1a5d5476d74806ac7c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_05a647b9d3d22c51aed4cc1c9db743f1cc58a524/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/CurtisMason/Desktop/MFT6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_39fb12d8134dfd201c498ae284284e4133be631f/classes.dex" />
+    </item>
+
+</items>
